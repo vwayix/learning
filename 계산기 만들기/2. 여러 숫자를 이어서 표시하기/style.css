@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 230px;
+    width: 200px;
+    background-color: black;
+}
+.secondContainer{
+    display: inline-block;
+}
+
+#display{
+    width: 160px;
+    height: 40px;
+    background-color: gray;
+    text-align: end;
+}
+button{
+    width: 40px;
+    height: 30px;
+}
+#plus{
+    width: 40px;
+    height: 60px;
+}
+
+.inline{
+    display: inline-block;
+}
+.flex{
+    display: flex;
+}
