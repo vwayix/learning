@@ -1,0 +1,15 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+
+#생성하기{
+    display: block;
+}
+.컨테이너, .수정컨테이너{
+    display: none;
+}
+li{
+    padding: 10px;
+}
